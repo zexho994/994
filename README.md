@@ -1,1 +1,2 @@
-this first to use git pages,i'm try to use it.
+>  学习git，同时尝试使用git pages写博客 2020.1.5 - 22:00
+
