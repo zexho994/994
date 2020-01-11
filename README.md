@@ -4,13 +4,15 @@
 
 > 敏捷 = 价值观 + 原则 + 一些符合价值观和原则的方法
 
-### <img src="https://s2.ax1x.com/2020/01/11/l5mS9e.png" alt="目录" style="zoom:15%;" />文章列表
+### <img src="https://s2.ax1x.com/2020/01/11/l5ndJS.png" alt="目录" style="zoom:65%;" />文章列表
+
+- 
 
 
 
 ### <img src="https://s2.ax1x.com/2020/01/11/l5minI.png" alt="目录" style="zoom:65%;" />推荐阅读
 
-极客时间 - 说透敏捷 : 作者很有经验,文章不多,满满的干货,可以对敏捷开发有全新的认识
+[极客时间 - 说透敏捷](https://time.geekbang.org/column/article/185408) : 作者很有经验,文章不多,满满的干货,可以对敏捷开发有全新的认识
 
 
 
@@ -22,13 +24,15 @@
 
 >  软件 = 程序 + 软件工程
 
-### <img src="https://s2.ax1x.com/2020/01/11/l5mS9e.png" alt="目录" style="zoom:15%;" />文章列表
+### <img src="https://s2.ax1x.com/2020/01/11/l5ndJS.png" alt="目录" style="zoom:65%;" />文章列表
+
+- 
 
 
 
 ### <img src="https://s2.ax1x.com/2020/01/11/l5minI.png" alt="目录" style="zoom:65%;" />推荐阅读
 
-极客时间 -  软件工程之美
+[极客时间 -  软件工程之美](https://time.geekbang.org/column/article/82337)
 
 -  [03 瀑布模型](https://time.geekbang.org/column/article/83598) 理解瀑布的流程以及优缺点
 - 
