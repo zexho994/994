@@ -29,6 +29,7 @@
 - 
 
 
+------
 
 ### <img src="https://s2.ax1x.com/2020/01/11/l5minI.png" alt="目录" style="zoom:65%;" />推荐阅读
 
@@ -39,4 +40,5 @@
 
 ### ![笔记](https://tva1.sinaimg.cn/large/006tNbRwgy1gasxcu58e3j300w00w0fw.jpg)随记
 
-- 如何阅读源码
+
+- [如何阅读源码](https://github.com/zouzhihao-994/994/blob/master/%E5%A6%82%E4%BD%95%E5%8E%BB%E9%98%85%E8%AF%BB%E6%BA%90%E7%A0%81.md)
