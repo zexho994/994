@@ -4,8 +4,8 @@
 
 - ==Commit对象==
 
-	> 在命令行中，可以使用 git cat-file -p  <object id> 去查看每个对象里面的内容
-
+ 	 在命令行中，可以使用 git cat-file -p  <object id> 去查看每个对象里面的内容。
+	
 	由3部分组成，parent存储父commit对象的ID，每一个commit对象都一个ID，使用`git log`可以查看。Tree部分存储一个Tree对象的ID，下面部分存储的就是`git commit -m "xxx"`里面的注释内容了。
 
 ###### <img src="https://tva1.sinaimg.cn/large/006tNbRwgy1gau1bdlvotj30cs09at8v.jpg" alt="image-20200112200749581" style="zoom:50%;" />
